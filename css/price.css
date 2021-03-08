@@ -24,7 +24,7 @@ padding-top: 34px;
 }
 
 .pricing-item{
-    max-width: 340px;
+    width: 340px;
     margin:auto;
     padding: 0px 39px 0px;
 }
