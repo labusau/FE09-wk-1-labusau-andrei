@@ -59,23 +59,3 @@
     padding-bottom:16px;
 }
 
-
-.price{
-    background-color: #F5F5F5;
-}
-
-.title-price{
-    font-family: 'Raleway', normal;
-    font-size: 36px;
-    padding-bottom: 34px;
-    padding-top: 80px;
-}
-
-.pricing-line{
-    max-width: 64px;
-}
-
-.pricing-description{
-padding-top: 34px;
-
-}
