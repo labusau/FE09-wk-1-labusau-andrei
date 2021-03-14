@@ -1,60 +1,43 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@400;600&display=swap');
-
-.awesome{
-    margin:auto;
-    max-width: 1170px;
-    padding-top: 100px;
-    padding-bottom: 109px;
+.awesome-title {
+  padding-bottom: 25px;
 }
 
-
-
-
-.awesome-title{
-    padding-bottom: 25px;
+.line {
+  margin: auto;
+  border-bottom: 2px solid #d98943;
 }
 
-.line{
-    margin:auto;
-    border-bottom: 2px solid #D98943;
+.awesome-line {
+  max-width: 64px;
 }
 
-.awesome-line{
-    max-width: 64px;
-
+.description {
+  padding-top: 30px;
+  padding-bottom: 36px;
 }
 
-.description{
-    padding-top: 30px;
-    padding-bottom: 36px;
+.row {
+  display: flex;
 }
 
-
-
-.row{
-    display: flex;
+.rowitem {
+  margin: auto;
+  width: 350px;
+  padding: 0px 16px;
 }
 
-.rowitem{
-    margin:auto;
-    width: 350px;
-    padding: 0px 16px;
-    
+.image {
+  margin: auto;
+  width: 70px;
+  height: 70px;
 }
 
-.image{
-    margin:auto;
-    width: 70px;
-    height: 70px;
+.awesome-image {
+  border: 1px solid #d98943;
+  border-radius: 50%;
 }
 
-.awesome-image{
-    border: 1px solid #D98943;
-    border-radius: 50%;  
+.row-title {
+  padding-top: 30px;
+  padding-bottom: 16px;
 }
-
-.row-title{
-    padding-top: 30px;
-    padding-bottom:16px;
-}
-
