@@ -1,0 +1,43 @@
+.awesome-title {
+  padding-bottom: 25px;
+}
+
+.line {
+  margin: auto;
+  border-bottom: 2px solid #d98943;
+}
+
+.awesome-line {
+  max-width: 64px;
+}
+
+.description {
+  padding-top: 30px;
+  padding-bottom: 36px;
+}
+
+.row {
+  display: flex;
+}
+
+.rowitem {
+  margin: auto;
+  width: 350px;
+  padding: 0px 16px;
+}
+
+.image {
+  margin: auto;
+  width: 70px;
+  height: 70px;
+}
+
+.awesome-image {
+  border: 1px solid #d98943;
+  border-radius: 50%;
+}
+
+.row-title {
+  padding-top: 30px;
+  padding-bottom: 16px;
+}
