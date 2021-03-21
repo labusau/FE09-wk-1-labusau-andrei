@@ -1,0 +1,23 @@
+.header {
+  justify-content: space-between;
+  background-color: black;
+  /* margin-top: -80px;
+  padding-left: 110px; */
+}
+
+.navigation {
+  padding: 20px 110px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-logo {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+}
+.navigation-logo::after {
+  content: "IT";
+  color: #ec7979;
+}

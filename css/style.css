@@ -5,10 +5,12 @@
   text-decoration: none;
 }
 
-.section {
+.container {
+  position: relative;
   margin: auto;
   max-width: 1170px;
-  padding-top: 100px;
+  padding: 0px 15px;
+  z-index: 1;
 }
 
 p {

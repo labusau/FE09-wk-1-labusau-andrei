@@ -1,4 +1,6 @@
 .axure {
+  max-width: 1170px;
+  margin: auto;
   position: relative;
   background: no-repeat center url("../img/bg1.png");
   width: 100%;
