@@ -45,7 +45,7 @@ a {
 
 .download {
   display: block;
-  font-weight: 600px;
+  font-weight: 600;
   font-size: 15px;
   color: #ffffff;
   width: 135px;
@@ -53,4 +53,12 @@ a {
   padding: 11px 26px;
   transition: all 0.5s;
   cursor: pointer;
+}
+
+.li {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: center;
+  color: white;
 }
